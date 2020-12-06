@@ -1,6 +1,6 @@
 ### Hi there, I'm Sumant 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sumantguha.github.io/portfolio/#/)
+[![Website](./logo.png)](https://sumantguha.github.io/portfolio/#/)
 
 ## I'm a student studying Electrical and Computer Engineering at the [University of Washington](https://www.washington.edu), at Seattle!
 
