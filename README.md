@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Sumant 👋
+
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://sumantguha.github.io/portfolio/#/)
+
+## I'm a student studying Electrical and Computer Engineering at the [University of Washington](https://www.washington.edu), at Seattle!
+
+- 🔭 I’m currently a head teaching assistant for CSE14x, the introductory computer science series
+- 📫 Reach me at [guhas2@uw](mailto:guhas2@uw.edu) or message me at (253) 355 7730
+- ⚡ Fun fact: I love to play the piano!
 
 <!--
 **sumantguha/sumantguha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
