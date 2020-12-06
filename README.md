@@ -1,12 +1,13 @@
 ### Hi there, I'm Sumant 👋
 
-[![Website](./logo.png)](https://sumantguha.github.io/portfolio/#/)
+[portfolio](https://sumantguha.github.io/portfolio/#/) | (+1) 253-355-7730 | [guhas2@uw.edu](mailto:guhas2@uw.edu) | [linkedin/sumantguha99](http://www.linkedin.com/in/sumantguha99)
 
 ## I'm a student studying Electrical and Computer Engineering at the [University of Washington](https://www.washington.edu), at Seattle!
 
+- 😄 Pronouns: he/him
 - 🔭 I’m currently a head teaching assistant for CSE14x, the introductory computer science series
-- 📫 Reach me at [guhas2@uw](mailto:guhas2@uw.edu) or message me at (253) 355 7730
 - ⚡ Fun fact: I love to play the piano!
+- 👯 I’m looking to collaborate on more open source projects
 
 <!--
 **sumantguha/sumantguha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
