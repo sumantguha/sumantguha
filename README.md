@@ -11,7 +11,7 @@
 
 ### Connect with me
 
-[<img align="left" alt="portfolio" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin-right:10%;margin-left:15%" />](https://sumantguha.github.io/portfolio/#/)
+[<img align="left" alt="portfolio" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="margin-right:10%;margin-left:15%" />](https://sumantguha.github.io/)
 
 [<img align="left" alt="linkedin" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  style="margin-right:10%" />](http://www.linkedin.com/in/sumantguha99)
 
