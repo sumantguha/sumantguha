@@ -1,4 +1,4 @@
-### Hi there, I'm [Sumant](https://sumantguha.github.io/portfolio/#/) 👋
+### Hi there, I'm [Sumant](https://sumantguha.github.io/) 👋
 
 <!-- [portfolio](https://sumantguha.github.io/portfolio/#/) | (+1) 253-355-7730 | [guhas2@uw.edu](mailto:guhas2@uw.edu) | [linkedin/sumantguha99](http://www.linkedin.com/in/sumantguha99) -->
 
